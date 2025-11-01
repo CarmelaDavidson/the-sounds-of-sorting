@@ -5,5 +5,5 @@ package edu.grinnell.csc207.soundsofsorting.sortevents;
  * indices in the array.
  */
 public class CompareEvent<T> {
-    // TODO: implement me!
+    
 }
